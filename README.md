@@ -22,3 +22,4 @@ Coming up : PyTorch Implementation
 
 ### Recommended
 - Linux with Tensorflow GPU edition + cuDNN
+- ***Alternatively : Use Google Colab with GPU (Tesla K80)***
