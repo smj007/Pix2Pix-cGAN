@@ -7,7 +7,7 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Philipp Isola et al.
 
 Tensorflow implementation of pix2pix. Learns a mapping from input images to output images:
 
-<img src="docs/examples.jpg" width="900px"/>
+<img src="https://phillipi.github.io/pix2pix/images/teaser_v3.png" width="800px"/>
 
 Coming up : PyTorch Implementation
 
