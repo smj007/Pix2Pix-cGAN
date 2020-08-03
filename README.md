@@ -1,5 +1,5 @@
 # Pix2Pix-cGAN - Tensorflow
-Image2Image Translation
+**Image2Image Translation**
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Philipp Isola et al.
 
